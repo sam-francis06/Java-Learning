@@ -30,6 +30,18 @@ Java/
 │       ├── Q2.java
 │       └── Q3.java
 │
+├── day 3/
+│   ├── elseif.java          # If-Else-If ladder example
+│   ├── evenorodd.java       # Check whether a number is even or odd
+│   ├── logicaloperator.java # Logical operators demonstration
+│   ├── nestedif.java        # Nested if condition example
+│   ├── Q1.java              # Small practice problem
+│   │
+│   └── coding challenge/
+│       ├── Q1.java
+│       ├── Q2.java
+│       └── Q3.java
+│
 └── (Compiled .class files are auto-generated after compilation)
 ```
 
@@ -60,9 +72,11 @@ Java/
 - Basics of Java (Hello World, Variables, Data Types)
 - Taking User Input (`Scanner` class)
 - Operators (Arithmetic, Comparison, Logical)
-- Control Flow (if-else, nested conditions)
+- Control Flow (if, if-else, else-if ladder, nested conditions)
 - String Comparison in Java
+- Even/Odd Program
 - Small Coding Practice Exercises (Q1–Q7)
+- Coding Challenges (Day 3)
 
 ---
 
