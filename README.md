@@ -56,7 +56,22 @@ Java/
 │       ├── Q5.java
 │       └── Q6.java
 │
+├── day 5/
+│   ├── array.java              # Basic array usage
+│   ├── example.java            # Example program 1
+│   ├── example2.java           # Example program 2
+│   ├── nestedforloop.java      # Nested for loop demonstration
+│   ├── random.java             # Random number generation
+│   ├── whileloop.java          # While loop demonstration
+│   │
+│   └── coding challenge/
+│       ├── Q1.java             # Coding challenge problem 1
+│       ├── Q2.java             # Coding challenge problem 2
+│       ├── Q3.java             # Coding challenge problem 3
+│       ├── Q4.java             # Coding challenge problem 4
+│
 └── (Compiled .class files are auto-generated after compilation)
+
 ```
 
 
