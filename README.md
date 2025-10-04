@@ -70,7 +70,21 @@ Java/
 │       ├── Q3.java             # Coding challenge problem 3
 │       ├── Q4.java             # Coding challenge problem 4
 │
+├── day 6/
+│   ├── classobject.java        # Class & object basics
+│   ├── dowhileloop.java        # Do-while loop demonstration
+│   ├── functions.java          # Functions (methods) example
+│   ├── mobile.java             # Class example (Mobile)
+│   ├── parameters.java         # Functions with parameters
+│   │
+│   └── coding challenges/
+│       ├── example1.java
+│       ├── example2.java
+│       ├── example3.java
+│       ├── example4.java
+│
 └── (Compiled .class files are auto-generated after compilation)
+
 
 ```
 
